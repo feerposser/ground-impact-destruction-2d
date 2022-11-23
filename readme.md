@@ -25,3 +25,10 @@ For now, the lib can handle with square and parallelepiped ground formats. Also,
 ## Flow
 
 ![image](/docs/flow.png)
+
+## Next steps
+
+- [] be able to get the pivot position of the impact created
+- [] be able to increase the size of some hole when a impact is detected on the area of a previus impact
+
+Can you contribute?
